@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ពិលខ្មែរ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">អំពីកម្មវីធីពិល</string>
+    <string name="title_activity_about">អំពីកម្មវីធីពិល</string>
+    <string name="contact_me">ទំនាក់ទំនង</string>
+    <string name="web">ចូលវិបសាយរបស់ខ្ញុំ</string>
+    <string name="exit">តើអ្នកចង់បិទកម្មវិធីឥឡូវនេះ?</string>
+    <string name="yes">បាទ</string>
+    <string name="no">ទេ</string>
+    <string name="ligh_turn_on">ពិលបានបើក</string>
+    <string name="ligh_turn_of">ពិលបានបិទ</string>
+    <string name="ligh_turn_on1">ពិលបានបើក</string>
+    <string name="exitapp">បិទកម្មវីធី</string>
+
+</resources>

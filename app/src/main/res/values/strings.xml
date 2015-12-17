@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Material FlashLight</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About Me</string>
+    <string name="title_activity_about">About KU flash Light</string>
+    <string name="ligh_turn_on1">Light Turned ON</string>
+    <string name="ligh_turn_on">Light Turned ON</string>
+    <string name="ligh_turn_of">Light Turned OFF</string>
+    <string name="contact_me">Contact Me</string>
+    <string name="web">Visit My Website</string>
+    <string name="exit">Do you want to exit now ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+<string name="exitapp">Exit</string>
+</resources>
